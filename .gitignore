@@ -1,7 +1,6 @@
 *.class
 
-# Ignore all compiled class files
-*.class
+
 
 # Log files
 *.log
