@@ -1,0 +1,22 @@
+*.class
+
+# Ignore all compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Build directories
+target/
+build/
+bin/
+
+# IDE specific files
+.idea/
+.settings/
+*.iml
