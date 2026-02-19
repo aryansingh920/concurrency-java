@@ -13,6 +13,8 @@ public class ThreadExample1 {
     public static void main(String[] args) {
         
         MyThread myThread = new MyThread();
+        String name = Thread.currentThread().getName();
+        System.out.println("name : " + name);
         myThread.start();
 
     }
