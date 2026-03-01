@@ -1,3 +1,4 @@
+package javaLang;
 public class ThreadExample2 {
     public static class MyRunnable implements Runnable {
         /*

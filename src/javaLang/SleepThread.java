@@ -1,3 +1,4 @@
+package javaLang;
 public class SleepThread {
     public static void main(String[] args) {
         @SuppressWarnings("CallToPrintStackTrace")

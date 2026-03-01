@@ -1,3 +1,6 @@
+package javaLang;
+
+// package java;
 public class ThreadExample1 {
     public static class MyThread extends Thread {
         /*
